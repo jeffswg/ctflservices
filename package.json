@@ -23,6 +23,7 @@
   "dependencies": {
     "contentful": "^7.15.0",
     "contentful-management": "^7.3.1",
+    "deasync": "^0.1.21",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "netlify-lambda": "^2.0.1",
